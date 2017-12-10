@@ -1,0 +1,10 @@
+[
+    { "keys": ["super+shift+,"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["super+shift+."], "command": "select_lines", "args": {"forward": true} },
+
+    { "keys": ["super+;"], "command": "expand_tabs" },
+    { "keys": ["super+shift+;"], "command": "unexpand_tabs" },
+
+    { "keys": ["super+shift+r"], "command": "set_setting", "args": { "setting": "rulers", "value": [80, 120] } },
+    { "keys": ["super+alt+r"], "command": "set_setting", "args": { "setting": "rulers", "value": [] } }
+]

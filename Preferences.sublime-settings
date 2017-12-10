@@ -1,0 +1,73 @@
+{
+
+/****************************************
+ * Interface
+ ****************************************/
+    "always_show_minimap_viewport": true,
+    "open_files_in_new_window": false,
+    "scroll_past_end": true,
+    "show_encoding": true,
+    "show_full_path": true,
+    "show_line_endings": true,
+
+
+/****************************************
+ * Behavior
+ ****************************************/
+    "auto_complete_commit_on_tab": true,
+    "auto_find_in_selection": true,
+    "ensure_newline_at_eof_on_save": false,
+    "find_selected_text": true,
+    "indent_to_bracket": true,
+    "move_to_limit_on_up_down": true,
+    "spell_check": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+
+
+/****************************************
+ * Text
+ ****************************************/
+    "default_line_ending": "unix",
+    "draw_white_space": "all",
+    "font_face": "Menlo Regular",
+    "font_size": 12,
+    "highlight_line": true,
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 3,
+    "line_padding_top": 3,
+    "tab_size": 4,
+    "word_wrap": true,
+
+
+/****************************************
+ * Theme
+ ****************************************/
+
+    "color_scheme": "Packages/Material/Material-Theme.tmTheme",
+    "theme": "Material-Theme.sublime-theme",
+
+    "material_theme_compact_sidebar": true,
+    "material_theme_small_statusbar": true,
+    "material_theme_small_tab": true,
+    "material_theme_tabs_autowidth": true,
+
+
+/****************************************
+ * System
+ ****************************************/
+
+    "added_words":
+    [
+        "Laravel"
+    ],
+    "ignored_packages":
+    [
+        "Vintage"
+    ]
+
+}
